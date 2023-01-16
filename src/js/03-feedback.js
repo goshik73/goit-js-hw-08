@@ -48,3 +48,4 @@ function populateTextarea() {
     textarea.value = userData.message;
   }
 }
+
